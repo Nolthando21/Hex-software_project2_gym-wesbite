@@ -1,0 +1,68 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+    color: #333; /* Default text color */
+}
+
+header {
+    background: #333;
+    color: #fff; /* Header text color */
+    padding: 10px 0;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+section {
+    padding: 20px;
+    margin: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+}
+
+#facilities {
+    background-color: #f0f8ff; /* Light blue background */
+}
+
+#services {
+    background-color: #ffe4e1; /* Light pink background */
+}
+
+#membership {
+    background-color: #e6e6fa; /* Lavender background */
+}
+
+h2 {
+    color: #2e8b57; /* Dark green for section headings */
+}
+
+img {
+    max-width: 100%; /* Responsive images */
+    height: auto;
+    border-radius: 8px;
+}
+
+footer {
+    text-align: center;
+    padding: 10px 0;
+    background: #333;
+    color: #fff;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
